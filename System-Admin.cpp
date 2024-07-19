@@ -7,3 +7,7 @@ timeslots for screenings.*/
 #include<iostream>
 #include<string>
 using namespace std;
+
+System_Administrator::System_Administrator(){
+    
+}

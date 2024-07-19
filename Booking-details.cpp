@@ -8,3 +8,7 @@ Generating unique booking IDs to facilitate tracking and management of reservati
 #include<iostream>
 #include<string>
 using namespace std;
+
+Booking_Details::Booking_Details(){
+    
+}

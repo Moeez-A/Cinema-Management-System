@@ -11,3 +11,7 @@ Initiating seat reservations and generating booking receipts for their records.*
 #include<iostream>
 #include<string>
 using namespace std;
+
+User::User(){
+    
+}

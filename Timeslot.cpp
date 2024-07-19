@@ -8,3 +8,7 @@ Ensuring optimal distribution of screening times to accommodate user preferences
 #include<iostream>
 #include<string>
 using namespace std;
+
+Timeslot::Timeslot(){
+    
+}

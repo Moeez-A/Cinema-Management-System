@@ -8,3 +8,7 @@ Allocation of timeslots for movie screenings, ensuring effective schedulin*/
 #include<iostream>
 #include<string>
 using namespace std;
+
+Screen::Screen(){
+    
+}
