@@ -4,3 +4,8 @@ Movie Representation:
 Holding essential details such as the title and the number of seats available for booking.
 Maintaining a record of bookings associated with the movie for effective seat 
 management*/
+
+#include "Movie.h"
+#include<iostream>
+#include<string>
+using namespace std;

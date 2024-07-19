@@ -3,3 +3,8 @@ movie information. Their responsibilities include:
 Reservation Details:
 Recording user selections such as chosen seats, movie, and screening date.
 Generating unique booking IDs to facilitate tracking and management of reservations*/
+
+#include "Booking_Details.h"
+#include<iostream>
+#include<string>
+using namespace std;
