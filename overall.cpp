@@ -8,8 +8,12 @@
 #include <iostream>
 #include <string>
 #include <fstream>
+#include <cstdlib>
+#include <ctime>
+#include <thread>
+#include <chrono>
 using namespace std;
 
 int main(){
-    
+
 }
