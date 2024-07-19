@@ -1,4 +1,5 @@
 #include "login.h"
+#include "password.h"
 #include "System_Administrator.h"
 #include "User.h"
 #include "Movie.h"
